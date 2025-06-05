@@ -7,4 +7,5 @@
 --    first_name VARCHAR(80) NOT NULL, 
 --    last_name VARCHAR(80) NOT NULL 
 -- ); 
-rollback DROP TABLE IF EXISTS doctors; 
+-- rollback 
+DROP TABLE IF EXISTS doctors; 
